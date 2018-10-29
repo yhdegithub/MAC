@@ -1,0 +1,52 @@
+54369B1BC515  1Verge Internet Technology (Beijing)         
+AC83F345FD1F  AMPAK Technology, Inc.       
+E47D5A105B44  Beijing Hanbang Technology Corp.    
+000B2F4D487A  bplan GmbH    
+EC6C9F2B5EC4  Chengdu Volans Technology        
+007E563D7B7A  China Dragon Technology Limited    
+00E08F00DEEB  Cisco Systems, Inc    
+80FA5B1DDF71  CLEVO CO.    
+F0761CE51B44  COMPAL INFORMATION (KUNSHAN)      
+340804795007  D-Link Corporation
+1CBDB9F58207  D-Link International    
+0001295528A3  DFI Inc.    
+B8AEEDF4F50D  Elitegroup Computer Systems .    
+002324880489  G-PRO COMPUTER        
+D4EE0738FF67  HIWIFI        
+E09467044E4A  Intel Corporate 
+78929C8AC58A  Intel Corporate    
+84EF182136F3  Intel Corporate    
+E0629021C3B2  Jinan Jovision Science & Technology     
+68F72846B9D3  LCFC(HeFei) Electronics Technology co., ltd    
+2076933302FB  Lenovo (Beijing) Limited.    
+68A3C404C611  Liteon Technology Corporation
+2CD05A0121D2  Liteon Technology Corporation    
+24FD52E47EEC  Liteon Technology Corporation    
+488AD2326743  MERCURY COMMUNICATION TECHNOLOGIES 
+BC5FF62701D6  MERCURY COMMUNICATION TECHNOLOGIES .        
+501AC5EAAD25  Microsoft    
+0CE7252AF774  Microsoft Corporation    
+24050F54D5C3  MTN Electronic Co. Ltd    
+048D3863A853  Netcore Technology Inc.    
+28C68E84DD0A  NETGEAR    
+6CB0CE1755E8  NETGEAR    
+28C68E8DBF2D  NETGEAR    
+4C2578D9982C  Nokia Corporation    
+00000ACB0929  OMRON TATEISI ELECTRONICS CO.    
+D8C8E969B688  Phicomm (Shanghai) 
+CC81DABCCDD0  Phicomm (Shanghai)     
+00E04CA5BE49  REALTEK SEMICONDUCTOR CORP.       
+00167857C9B1  SHENZHEN BAOAN GAOKE ELECTRONICS CO., LTD        
+DC56E600919A  Shenzhen Bococom Technology         
+005A39EA2F91  SHENZHEN FAST TECHNOLOGIES 
+000726597F68  SHENZHEN GONGJIN ELECTRONICS CO.,LT    
+C8EEA60BE22D  Shenzhen SHX Technology Co., Ltd  
+E43A6E09C62F  Shenzhen Zeroone Technology     
+B0D59D5FF2F1  Shenzhen Zowee Technology Co., Ltd        
+001CA309E953  Terra    
+FC2FEFC4A65C  UTT Technologies     
+803F5D607674  Winstars Technology Ltd    
+54EE75990C2A  Wistron InfoComm(Kunshan).    
+004001011F88  Zero One Technology Co. Ltd.        
+F428535D65B1  Zioncom Electronics (Shenzhen) Ltd.    
+B855104AABCB  Zioncom Electronics (Shenzhen) Ltd.    

@@ -1,0 +1,34 @@
+000AF56D1D34  Airgo Networks, Inc.       
+94A1A257270B  AMPAK Technology, Inc.
+983B16DE0DA7  AMPAK Technology, Inc.        
+3497F62EB7E6  ASUSTek COMPUTER INC.       
+D89A3435BA4A  Beijing SHENQI Technology     
+8CD17B703AC4  CG Mobile    
+784561D49458  CyberTAN Technology Inc.    
+58635641292B  FN-LINK TECHNOLOGY LIMITED      
+C8FF288E8F3C  Liteon Technology Corporation
+24FD5222C8AA  Liteon Technology Corporation    
+000CE7D6EDCC  MediaTek Inc.                       
+4888CA64900F  Motorola (Wuhan) Mobility Technologies Communication     
+980CA56830B3  Motorola (Wuhan) Mobility Technologies Communication     
+24050F7DFA00  MTN Electronic Co. Ltd    
+FCDBB3C3C21D  Murata Manufacturing        
+60F1895F1003  Murata Manufacturing     
+C89346CB1B3E  MXCHIP Company Limited    
+90C35F278070  Nanjing Jiahao Technology         
+94652D2A3D5B  OnePlus Technology (Shenzhen) Co., Ltd    
+2059A06E3122  Paragon Technologies Inc.       
+74AC5F1FC2B6  Qiku Internet Network Scientific (Shenzhen)     
+88A73CFEA52A  Ragentek Technology Group     
+40C62A76E74A  Shanghai Jing Ren Electronic Technology         
+C8AE9CE76A3D  Shanghai TYD Elecronic Technology Co. Ltd    
+1CCDE549D5DE  Shanghai Wind Technologies         
+FCA386E04EBF  SHENZHEN CHUANGWEI-RGB ELECTRONICS          
+14488B4319CC  Shenzhen Doov Technology     
+94FAE8A1317A  Shenzhen Eycom Technology Co., Ltd         
+001B1013269D  ShenZhen Kang Hui Technology     
+5CFFFF3DDDD4  Shenzhen Kezhonglong Optoelectronic Technology Co., Ltd    
+002126362B15  Shenzhen Torch Equipment     
+549359F888A0  SHENZHEN TWOWING TECHNOLOGIES .          
+4045DACE002C  Spreadtrum Communications (Shanghai)        
+3C591E5D7002  TCL King Electrical Appliances (Huizhou) Co., Ltd   

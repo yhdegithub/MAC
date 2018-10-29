@@ -1,0 +1,16 @@
+00E0702F2DE4  DH TECHNOLOGY
+7427EA6CE9C7  Elitegroup Computer Systems .    
+A45602A9D4A0  fenglian Technology .                            
+3480B3BDA952  Communications Co Ltd
+00082232E6FB  InPro Comm    
+003018AF0C7D  Jetway Information            
+00E066DFA2E4  ProMax Systems, Inc.    
+D0FA1D6A734C  Qihoo  360  Technology       
+00E04C2540D5  REALTEK SEMICONDUCTOR CORP.       
+A89DD217EA45  Shanghai DareGlobal Technologies      
+8CAB8E831E83  Shanghai Feixun Communication .             
+045FA7334846  Shenzhen Yichen Technology Development           
+000763F8BFC8  Sunniwell Cyber Tech.          
+9492BC365822  SYNTECH(HK) TECHNOLOGY LIMITED    
+A444D13B1BC3  Wingtech Group (HongKong）Limited              
+F42853315FCD  Zioncom Electronics (Shenzhen) Ltd.    
